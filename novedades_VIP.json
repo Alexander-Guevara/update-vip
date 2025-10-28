@@ -1,0 +1,16 @@
+[
+  { "text": "» Novedades en el Software VIP", "color": "Lime", "bold": true },
+  { "text": "» Servidor CPID Xiaomi: off", "color": "Red", "bold": true },
+  { "text": "» Lectura / Escritura, Critical Data Qualcomm.", "color": "Yellow", "bold": true },
+
+  { "text": "» Parchar oem info / PayJoy, Movistar, Claro, etc.", "color": "Violet", "bold": true },
+  { "text": "» Fix Yape, Método 3, Exynos, Mediatek (Octubre 2025)", "color": "Yellow", "bold": true },
+  { "text": "» Fix Yape, Método 2, Exynos, Mediatek", "color": "Cyan", "bold": true },
+  { "text": "» Habilitar SIM 2, Gratis para los dispositivos A55 5G, S24 FE, S24, S24+, S24 Ultra.", "color": "Violet", "bold": true },
+  { "text": "» IT Admin Bypass / Fix Ubicación.", "color": "Yellow", "bold": true },
+  { "text": "» SAMSUNG Bypass KG / Fix Antirelock KG Active.", "color": "Cyan", "bold": true },
+  { "text": "» SAMSUNG Bypass KG / Android 13, Android 14.", "color": "Violet", "bold": true },
+  { "text": "» Fix WhatsApp No Official / Root requerido.", "color": "Yellow", "bold": true },
+  { "text": "» Modificación directa SN / Root requerido.", "color": "Cyan", "bold": false },
+  { "text": "» Eliminar Bloqueo Claro / Telcel V2 Nueva Seguridad.", "color": "Violet", "bold": true }
+]
