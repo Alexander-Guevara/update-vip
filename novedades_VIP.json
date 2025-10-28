@@ -1,11 +1,12 @@
 [
   { "text": "» Novedades en el Software VIP", "color": "Lime", "bold": true },
   { "text": "» Tenemos un convenio con el desarrollador del software MultiUnlockMDM.", "color": "Yellow", "bold": true },
-  { "text": "» Todos los usuarios VIP, pueden solicitar su acceso gratuito por un tiempo determinado.", "color": "cyan", "bold": true },
-  { "text": "", "color": "Yellow", "bold": true },
+  { "text": "» Todos los usuarios VIP, pueden solicitar su acceso gratuito por un tiempo determinado.", "color": "Violet", "bold": true },
+
 
   { "text": "» Para solicitar su acceso, contactarse por WhatsApp o Telegram, brindar su usuario y correo registrados en MOVISUR VIP.", "color": "WhiteSmoke", "bold": true },
   { "text": "» WhatsApp: +573228319659", "color": "Lime", "bold": true },
   { "text": "» Telegram: @DAINEL1821", "color": "Cyan", "bold": true },
   { "text": "» Youtube: https://www.youtube.com/@dainelsistemas", "color": "Red", "bold": true },
 ]
+
