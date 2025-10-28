@@ -1,6 +1,6 @@
 [
   { "text": "» Novedades en el Software VIP", "color": "Lime", "bold": true },
-  { "text": "» Servidor CPID Xiaomi: off", "color": "Red", "bold": true },
+  { "text": "» Servidor CPID Xiaomi: off", "color": "Cyan", "bold": true },
   { "text": "» Lectura / Escritura, Critical Data Qualcomm.", "color": "Yellow", "bold": true },
 
   { "text": "» Parchar oem info / PayJoy, Movistar, Claro, etc.", "color": "Violet", "bold": true },
@@ -13,4 +13,5 @@
   { "text": "» Fix WhatsApp No Official / Root requerido.", "color": "Yellow", "bold": true },
   { "text": "» Modificación directa SN / Root requerido.", "color": "Cyan", "bold": false },
   { "text": "» Eliminar Bloqueo Claro / Telcel V2 Nueva Seguridad.", "color": "Violet", "bold": true }
+
 ]
