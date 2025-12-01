@@ -1,9 +1,8 @@
 {
-  "current_version": "3.5.0",
+  "current_version": "3.6.0",
   "mandatory": true,
   "release_date": "02/12/2025",
   "download_link": "https://www.mediafire.com/folder/s3pcv7hzmxupm/MOVISUR+Tool+(VIP)+(1)",
   "change_logs": "[VIP] Fix Bancos, Yape / Método 4, ahora compatible con las últimas versiones apps bancarias.\n\n[VIP] Extracción / Escritura, Particiones Xiaomi Eng Firmware, ahora puedes extraer, editar o modificar, escribir tus particiones.\n\n[VIP] Extracción / Escritura, Particiones Root.\n\nCorrecciones menores.",
-  "allowed_versions": ["3.4.0", "3.5.0", "3.6.0"]
+  "allowed_versions": ["3.6.0", "3.7.0", "3.6.0"]
 }
-
