@@ -1,10 +1,8 @@
 {
-  "current_version": "3.6.0",
+  "current_version": "3.6.1",
   "mandatory": true,
   "release_date": "10/01/2026",
   "download_link": "https://www.mediafire.com/folder/s3pcv7hzmxupm/MOVISUR+Tool+(VIP)+(1)",
-  "change_logs": "[VIP] Servidor en mantenimiento.",
+  "change_logs": "[VIP] Problemas con el servidor corregido.",
   "allowed_versions": ["3.7.0", "3.6.0", "3.6.1"]
 }
-
-
