@@ -1,8 +1,8 @@
 {
-  "current_version": "3.6.1",
+  "current_version": "3.7.0",
   "mandatory": true,
-  "release_date": "10/01/2026",
+  "release_date": "13/05/2026",
   "download_link": "https://www.mediafire.com/folder/s3pcv7hzmxupm/MOVISUR+Tool+(VIP)+(1)",
-  "change_logs": "[VIP] Problemas con el servidor corregido.",
+  "change_logs": "[VIP] Potente gestor de aplicaciones, incluye Forzar desinstalación.\n\n[VIP] Forzar desinstalación, es compatible con las sig. marcas, SAMSUNG Android 16, MOTOROLA, HONOR, HUAWEI, ZTE entre otros.\n\n[Público] Potente gestor de aplicaciones.",
   "allowed_versions": ["3.7.0", "3.6.0", "3.6.1", "3.7.0"]
 }
