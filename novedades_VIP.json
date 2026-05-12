@@ -1,6 +1,7 @@
 [
   { "text": "» Novedades en el Software VIP", "color": "Lime", "bold": true },
-  { "text": "» Fix Bancos, Yape / Método 4 (Marzo 2026) ahora compatible con las últimas versiones apps bancarias.", "color": "Orange", "bold": true },
+  { "text": "» Potente gestor de aplicaciones, incluye Forzar desinstalación.", "color": "Violet", "bold": true },
+  { "text": "» Fix Bancos, Yape / Método 4 (Mayo 2026) ahora compatible con las últimas versiones apps bancarias.", "color": "Orange", "bold": true },
   { "text": "» Tenemos un convenio con el desarrollador del software MultiUnlockMDM.", "color": "Yellow", "bold": true },
   { "text": "» Todos los usuarios VIP, pueden solicitar su acceso gratuito por un tiempo determinado.", "color": "Violet", "bold": true },
 
