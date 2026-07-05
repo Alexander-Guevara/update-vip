@@ -4,5 +4,5 @@
   "release_date": "17/06/2026",
   "download_link": "https://www.mediafire.com/folder/s3pcv7hzmxupm/MOVISUR+Tool+(VIP)+(1)",
   "change_logs": "[VIP] Eliminar FRP Exynos 2026.\n\n[VIP] Fix ADB no autorizado.\n\n[VIP] Fix Puertos Chimera, solución para liberar los puertos después de haber usado Chimera.\n\n[VIP] Nuevo Fix Logo mejorado.\n\n[Público] Eliminar FRP Exynos 2026, Fix ADB no autorizado, Nuevo Fix Logo mejorado.",
-  "allowed_versions": ["3.7.0", "3.6.0", "3.6.1", "3.7.0", "3.7.1"]
+  "allowed_versions": ["3.8.0", "3.6.0", "3.6.1", "3.7.0", "3.7.1"]
 }
