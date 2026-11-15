@@ -1,6 +1,7 @@
 [
-  { "text": "» Novedades en el Software VIP", "color": "Lime", "bold": true },
-  { "text": "» Potente gestor de aplicaciones, incluye Forzar desinstalación.", "color": "Violet", "bold": true },
-  { "text": "» Forzar desinstalación, es compatible con las sig. marcas, SAMSUNG Android 16, MOTOROLA, HONOR, HUAWEI, ZTE entre otros.", "color": "Yellow", "bold": true },
-  { "text": "» Fix Bancos, Yape / Método 4 (Junio 2026) ahora compatible con las últimas versiones apps bancarias.", "color": "Orange", "bold": true },
+  { "text": "⮞ Funcionas más usados", "color": "Lime", "bold": true },
+  { "text": "⮞ MOVISUR Phone, vea el tutorial en la categoría Util. Cat. Principal.", "color": "Violet", "bold": true },
+  { "text": "⮞ Xiaomi Payload Puerto MTK, vea el tutorial en la categoría Xiaomi.", "color": "Cyan", "bold": true },
+  { "text": "⮞ Forzar desinstalación, es compatible con las sig. marcas, MOTOROLA, HONOR, HUAWEI, ZTE entre otros. Ejemplo, puedes desinstalar la app co.sitic.pp sin problemas", "color": "Yellow", "bold": true },
+  { "text": "⮞ Fix Bancos, Yape / Método 5 y 6 compatible con las últimas versiones apps bancarias.", "color": "Orange", "bold": true },
 ]
